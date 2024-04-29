@@ -1,7 +1,7 @@
 /dist/
 /target/
 /assets/
-rust-toolchain
-Trunk.toml
-index.html
-check.sh
+/rust-toolchain
+/Trunk.toml
+/index.html
+/check.sh
